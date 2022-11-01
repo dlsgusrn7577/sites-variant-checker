@@ -53,6 +53,7 @@
         "c_diffContents1",
         "c_diffContents2",
         "c_isEqual",
+        "slug",
       ],
       // Defines the scope of entities that qualify for this stream.
       filter: {
